@@ -116,5 +116,3 @@ This project demonstrates the implementation of Dynamic Adaptive Streaming over 
 
 ---
 
-## 👤 Author
-Ashir
